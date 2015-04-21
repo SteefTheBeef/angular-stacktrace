@@ -7,5 +7,9 @@ AngularJS
 jQuery  
 Stacktrace-js
 
+## Installation
+```
+bower install angular-stacktrace --save
+```
 ## License
 MIT
