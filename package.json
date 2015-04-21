@@ -1,0 +1,42 @@
+{
+    "author": "Stefan Hellström",
+    "name": "gulangco-plate",
+    "description": "Yupp, yet another AngularJS project boilerplate and build tool!",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/SteefTheBeef/gulangco-plate"
+    },
+    "dependencies": {
+        "angular": "^1.3.14",
+        "bower": "*",
+        "del": "*",
+        "gulp": "*"
+    },
+    "devDependencies": {
+        "coffee-script": "*",
+        "event-stream": "^3.2.2",
+        "gulp-angular-templatecache": "^1.5.0",
+        "gulp-coffee": "*",
+        "gulp-coffeelint": "^0.4.0",
+        "gulp-concat": "*",
+        "gulp-inject": "^1.2.0",
+        "gulp-karma": "*",
+        "gulp-ng-annotate": "*",
+        "gulp-plumber": "^1.0.0",
+        "gulp-streamify": "0.0.5",
+        "gulp-uglify": "*",
+        "gulp-util": "*",
+        "gulp-webserver": "^0.9.0",
+        "http-server": "^0.7.5",
+        "jasmine-core": "*",
+        "karma": "*",
+        "karma-chrome-launcher": "*",
+        "karma-coffee-preprocessor": "*",
+        "karma-jasmine": "*",
+        "karma-phantomjs-launcher": "*",
+        "phantomjs": "*",
+        "require-dir": "^0.1.0",
+        "stream-series": "^0.1.1",
+        "vinyl-source-stream": "^1.0.0"
+    }
+}
