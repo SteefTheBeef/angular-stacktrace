@@ -16,6 +16,8 @@ angular.module('yourApp').config(function(stacktraceProvider) {
     return stacktraceProvider.setUrl('yourUrl');
 });
 ```
+## Inspiration & Credits
+[Ben nadel](http://www.bennadel.com/blog/2542-logging-client-side-errors-with-angularjs-and-stacktrace-js.htm)
 
 ## License
 MIT
